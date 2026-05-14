@@ -1,2 +1,2 @@
 # Exel-Project
-![Dashboard](images/SwiggyExelDashboard.png)
+![Dashboard](images/Swiggy Exel Dashboard.png)
